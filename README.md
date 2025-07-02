@@ -14,9 +14,11 @@
 
 ## 🏆 Highlights
 - 🥈 2nd place – GENCyber Camp (UMKC)  
-- 🏅 600/700 – National Cyber Cup (Team 32/300)  
-- 🥇 2x Winner – CYBER.ORG (Lincoln University)  
+- 🏅 Top 10% - 600/700 team points in National Cyber Cup  
+- 🥇 4x 1st place Winner – CYBER.ORG (Lincoln University)
+- 🥈 2nd place winnder - CYBER>ORG
 - 🤝 Habitat for Humanity – Volunteer computer technician
 
 ## 📫 Let's connect
 - Email: gmishra3000b@gmail.com  
+- Phone:+1 573-797-9260
