@@ -3,7 +3,6 @@
 🎓 High school senior | 🛡️ Cybersecurity enthusiast | 🧠 AI + EdTech explorer
 
 ## 🔧 Projects
-- **Darasa** – Offline learning app for Sudanese students *(in progress for CodeForSudan hackathon)*
 - **Cyber Club Toolkit** – Internal documentation for training club members (Linux basics, phishing, CTF tips)
 - **Google Cybersecurity Certificate Projects** – Completed 8/8 modules, recreated exercises in Python
 
